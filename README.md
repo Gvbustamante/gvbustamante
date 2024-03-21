@@ -17,7 +17,7 @@ Bienvenido a mi perfil de GitHub! Soy Gisella, apasionada por el desarrollo web 
 
 ### Mis Estadísticas de GitHub
 
-![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=gvbustamante&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gvbustamante)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologías y Herramientas
 
